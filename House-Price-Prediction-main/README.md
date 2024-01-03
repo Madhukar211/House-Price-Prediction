@@ -1,0 +1,3 @@
+"House Price Prediction Project"
+
+In this project, I developed a sophisticated house price prediction system leveraging advanced decision-making algorithms. By employing machine learning techniques such as Decision Trees, Random Forest, and Gradient Boosting, the system effectively analyzes key features like location, size, and amenities to predict accurate property values. The project not only showcases my proficiency in data analysis and model development but also highlights my commitment to delivering precise and actionable insights in real-world scenarios.
